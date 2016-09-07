@@ -1,0 +1,21 @@
+{
+  "name": "first",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Onesuch <experts1994@mail.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.3"
+  }
+}
